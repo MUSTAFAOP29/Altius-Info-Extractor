@@ -69,10 +69,12 @@ streamlit run file.py
 
 ## Screenshots
 ### 🔹 Python Script To Extract Features
-![English Commands](https://github.com/MUSTAFAOP29/SQL-BUDDY/blob/main/Screenshot%20(2369).png)
+![Interface](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2484).png)
+![Outputs](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2485).png)
 
 ### 🔹 Generatiove Method To Extract Features
-![Tamil Commands](https://github.com/MUSTAFAOP29/SQL-BUDDY/blob/main/Screenshot%20(2370).png) 
+![Interface](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2484).png)
+![Outputs](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2485).png)
 
 
 
