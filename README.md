@@ -73,15 +73,22 @@ streamlit run file.py
 ![Outputs](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2485).png)
 
 ### 🔹 Generatiove Method To Extract Features
-![Interface](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2484).png)
-![Outputs](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2485).png)
+![Interface](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2486).png)
+![Outputs](https://github.com/MUSTAFAOP29/Altius-Info-Extractor/blob/main/Screenshot%20(2487).png)
 
 
 
 ## 🚀 Live Demo
 👉 [Try SQL Buddy here](https://data-extractor-alltius.streamlit.app/)
 
-#### Note: This model is specifically designed for the provided MNC database. Please ensure that you query only valid questions based on the schema shared above.
+---
+
+## ⚠️ Note
+1. Extraction may take some time depending on the PDF size, so please be patient.  
+2. If you choose the **Normal** extraction method, make sure to click the **Extract** button to download the output as a JSON file.
+
+
+
 
 
 ## 📜 License
