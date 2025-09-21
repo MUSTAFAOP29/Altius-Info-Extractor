@@ -79,7 +79,7 @@ streamlit run file.py
 
 
 ## 🚀 Live Demo
-👉 [Try SQL Buddy here](https://data-extractor-alltius.streamlit.app/)
+👉 [Try Altius Infor Extractor here](https://data-extractor-alltius.streamlit.app/)
 
 ---
 
