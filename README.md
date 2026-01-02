@@ -1,6 +1,6 @@
 # 📄 PDF Extractor
 
-Developed a **Streamlit-based PDF extraction tool** that enables users to extract structured text, tables, and images from PDF files. The system supports both a **normal extraction mode** and an **AI-powered extraction** using Google Gemini API for enhanced processing.  
+Developed a Streamlit-based **PDF extraction tool** that allows users to extract structured text, tables, and images from PDF files. The system includes both a standard extraction mode and a **Generative AI–powered mode** using the Google Gemini API to intelligently process and structure complex documents.  
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-orange)
